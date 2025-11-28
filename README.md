@@ -1,3 +1,3 @@
-# React + TypeScript + Vite
+# Portfolio
 
 https://onpainn.github.io/portfolio/
